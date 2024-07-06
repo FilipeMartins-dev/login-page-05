@@ -75,6 +75,19 @@ label {
     margin-bottom: 24px;
 }
 
+.show-password-container{
+    border: 1px solid red;
+    display: flex;  
+    align-items: center;
+    justify-content: end;
+}
+#ishow-password-check {
+    border: 1px solid red;
+}
+.label-show-password{
+    width: 200px;
+}
+
 #forgot-password {
     display: block;
     text-align: end;
